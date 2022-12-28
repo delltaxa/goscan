@@ -7,7 +7,7 @@ Port scanner written in golang
 Install and direct
 
 ```bash
-git clone https://gtihub.com/delltaxa/goscan
+git clone https://github.com/delltaxa/goscan
 cd goscan/
 ```
 
