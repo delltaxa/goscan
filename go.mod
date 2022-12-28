@@ -1,3 +1,3 @@
-module app020
+module goscan
 
 go 1.19
